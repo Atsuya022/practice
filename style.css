@@ -1,7 +1,10 @@
-#list_id {
+img {
+  height: 100px;
+}
+#name {
   color: blue;
 }
 
-.list_class {
-  color: red;
+#result {
+  color: green;
 }
